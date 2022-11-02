@@ -1,0 +1,17 @@
+Câu 1. Special method có gì khác so với các phương thức thông thường?
+- Special method có dạng def __xx__()
+Là những method được quy ước sẵn tên và chức năng
+- Method thông thường là những method được người dùng đặt tên và tinh chỉnh chức năng
+
+Câu 2. Giả sử ta cần định nghĩa hai lớp Motorbike và Car, đại diện cho các thông số và hoạt động của Xe máy và Xe hơi. Có nên áp dụng tính kế thừa trong quá trình định nghĩa hai lớp này không? Nếu không, vì sao? Nếu có, nêu lý do và cách tổ chức quan hệ giữa hai lớp
+- Hai lớp Motorbike và Car có những cách hoạt động riêng, tuy đều là phương tiện giao thông nhưng các thông số đều khác
+-> Không nên dùng tính kế thừa
+
+Câu 3. Phương thức nào sau đây không phải là special method trong Python?
+B. __kq__()
+
+Câu 4. Chọn phát biểu đúng về các lớp trong quan hệ kế thừa.
+A. Lớp con kế thừa tất cả đặc điểm của lớp cha.
+
+Câu 5. Kỹ thuật overriding trong quan hệ kế thừa cho phép:
+C. Chỉnh sửa trong lớp con phương thức được kế thừa từ lớp cha

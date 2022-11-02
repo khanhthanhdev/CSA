@@ -1,0 +1,14 @@
+Câu 1. Lớp và đối tượng khác nhau như thế nào?
+Đối tượng (Object) chỉ đơn giản là một tập hợp các dữ liệu (các biến) và các phương thức (các hàm) hoạt động trên các dữ liệu đó. Và, lớp (class) là một kế hoạch chi tiết cho đối tượng.
+
+Câu 2. Nêu tác dụng của phương thức khởi tạo __init__() của lớp.
+__init__ là hàm constructor của một class. Khi 1 instance của một class được tạo ra thì hàm này sẽ được thực thi đầu tiên và tự động
+
+Câu 3. Để tạo một đối tượng Chihuahua thuộc lớp Dog, ta cần:
+C
+
+Câu 4. Trong Python, phương thức đối tượng luôn phải có ít nhất một tham số. Tham số này có tên là:
+D
+
+Câu 5. Thuộc tính lớp có thể được gọi trên:
+B
